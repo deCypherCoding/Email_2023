@@ -1,6 +1,6 @@
 # Email_2023
-   <h2 class="name">Eric Garner</h2>
+   <h2>Eric Garner</h2>
 
-            <p>
-                Email Developer
-            </p>
+        
+                <h1>Email Developer</h1>
+           
